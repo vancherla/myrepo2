@@ -1,6 +1,5 @@
 #!/bin/sh
 # Tomcat Servlet Engine
-
 case "$1" in
  'start')
         if [ -f /root/mohan/apache-tomcat-8.5.5/bin/startup.sh ];
